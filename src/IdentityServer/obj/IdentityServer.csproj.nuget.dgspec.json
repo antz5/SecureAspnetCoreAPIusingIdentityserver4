@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\API\\Movies-Security\\SecureMicroservices\\IdentityServer\\IdentityServer.csproj": {}
+    "E:\\API\\SecuringAspnetCoreApiUsingIdentityServer\\src\\IdentityServer\\IdentityServer.csproj": {}
   },
   "projects": {
-    "E:\\API\\Movies-Security\\SecureMicroservices\\IdentityServer\\IdentityServer.csproj": {
+    "E:\\API\\SecuringAspnetCoreApiUsingIdentityServer\\src\\IdentityServer\\IdentityServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\API\\Movies-Security\\SecureMicroservices\\IdentityServer\\IdentityServer.csproj",
+        "projectUniqueName": "E:\\API\\SecuringAspnetCoreApiUsingIdentityServer\\src\\IdentityServer\\IdentityServer.csproj",
         "projectName": "IdentityServer",
-        "projectPath": "E:\\API\\Movies-Security\\SecureMicroservices\\IdentityServer\\IdentityServer.csproj",
+        "projectPath": "E:\\API\\SecuringAspnetCoreApiUsingIdentityServer\\src\\IdentityServer\\IdentityServer.csproj",
         "packagesPath": "C:\\Users\\ananthsmurthy\\.nuget\\packages\\",
-        "outputPath": "E:\\API\\Movies-Security\\SecureMicroservices\\IdentityServer\\obj\\",
+        "outputPath": "E:\\API\\SecuringAspnetCoreApiUsingIdentityServer\\src\\IdentityServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

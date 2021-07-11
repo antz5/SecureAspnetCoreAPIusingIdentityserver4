@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src\Movies.API", "Movies.API\Movies.API.csproj", "{3F9D75F1-1B78-4CF1-9AAC-FE39C16D9AC2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies.API", "src/Movies.API\Movies.API.csproj", "{3F9D75F1-1B78-4CF1-9AAC-FE39C16D9AC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src\IdentityServer", "IdentityServer\IdentityServer.csproj", "{0E11F572-2FAD-4731-8C54-99AF3799F1C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer", "src/IdentityServer\IdentityServer.csproj", "{0E11F572-2FAD-4731-8C54-99AF3799F1C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

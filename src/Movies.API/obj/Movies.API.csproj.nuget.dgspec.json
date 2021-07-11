@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\API\\Movies-Security\\SecureMicroservices\\Movies.API\\Movies.API.csproj": {}
+    "E:\\API\\SecuringAspnetCoreApiUsingIdentityServer\\src\\Movies.API\\Movies.API.csproj": {}
   },
   "projects": {
-    "E:\\API\\Movies-Security\\SecureMicroservices\\Movies.API\\Movies.API.csproj": {
+    "E:\\API\\SecuringAspnetCoreApiUsingIdentityServer\\src\\Movies.API\\Movies.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\API\\Movies-Security\\SecureMicroservices\\Movies.API\\Movies.API.csproj",
+        "projectUniqueName": "E:\\API\\SecuringAspnetCoreApiUsingIdentityServer\\src\\Movies.API\\Movies.API.csproj",
         "projectName": "Movies.API",
-        "projectPath": "E:\\API\\Movies-Security\\SecureMicroservices\\Movies.API\\Movies.API.csproj",
+        "projectPath": "E:\\API\\SecuringAspnetCoreApiUsingIdentityServer\\src\\Movies.API\\Movies.API.csproj",
         "packagesPath": "C:\\Users\\ananthsmurthy\\.nuget\\packages\\",
-        "outputPath": "E:\\API\\Movies-Security\\SecureMicroservices\\Movies.API\\obj\\",
+        "outputPath": "E:\\API\\SecuringAspnetCoreApiUsingIdentityServer\\src\\Movies.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
